@@ -1,0 +1,9 @@
+{
+  "name": "n8n-render-starter",
+  "version": "1.0.0",
+  "description": "Versão leve do n8n para Render Free",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "license": "MIT"
+}
